@@ -1,5 +1,5 @@
 {
-    "name": "killmenot/undo-seeder-laravel",
+    "name": "allanlaal/undo-seeder-laravel",
     "description": "A way to rollback seeds in Laravel",
     "require": {
         "php": ">=5.5.9",
